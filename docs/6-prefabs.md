@@ -1,10 +1,3 @@
 ### Prefabs
-- Nome
-- Descrição
-- Quando são utilizados
-- Quais seus componentes
-    - Sprites
-    - Colisores
-    - Fontes de audio
-    - Scripts
-        - descreva o comportamento dos scripts
+
+![image](https://github.com/user-attachments/assets/b3462959-81ca-4480-95e4-ca0a4f659171)
